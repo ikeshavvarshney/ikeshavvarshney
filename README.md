@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keshav Varshney</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="coding" width="500" src="coding.gif">
+<img align="right" alt="coding" width="500" src="assets/coding.gif">
 <table width="100%">
   <tr>
     <td align="left">
       <a href="https://www.linkedin.com/in/keshav-varshney-624562367" target="_blank">
-        <img src="Connect-LinkedIn.svg" alt="Connect-LinkedIn" height="20">
+        <img src="assets/Connect-LinkedIn.svg" alt="Connect-LinkedIn" height="20">
       </a>
     </td>
     <td align="right">
@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ikeshavvarshney).
 
-- 📄 My Experience? Checkout my [Resume](RESUME.pdf).
+- 📄 My Experience? Checkout my [Resume](assets/RESUME.pdf).
 
 - 📫 Reach me at **ikeshavvarshney@gmail.com**
 
