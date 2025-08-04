@@ -1,77 +1,99 @@
-[![MasterHead](assets/Banner.gif)](https://github.com/ikeshavvarshney)
+<!-- Banner Image -->
+<p align="center">
+  <img src="assets/Banner.gif" width="100%" alt="Banner"/>
+</p>
 
-<h1 align="center">🚀 Welcome to My GitHub!</h1>
-<h3 align="center">I'm Keshav — Crafting Full-Stack Solutions with the MERN Stack</h3>
+<h1 align="center">👋 Hi, I'm Keshav!</h1>
+<h3 align="center">Full-Stack Developer | AI Undergrad | MERN Enthusiast</h3>
 
 <p align="center">
-  <img src="assets/coding.gif" alt="Coding GIF" width="450px" /><br><br>
-  <a href="https://www.linkedin.com/in/ikeshavvarshney" target="_blank"><img src="assets/Connect-LinkedIn.svg" alt="Connect-LinkedIn" height="20"></a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ikeshavvarshney&label=Profile%20views&color=0e75b6&style=flat" alt="ikeshavvarshney">
+  <a href="https://linkedin.com/in/ikeshavvarshney"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ikeshavvarshney"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/ikeshavvarshney"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:ikeshavvarshney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <em>
-    🎓 Currently pursuing <strong>B.Tech. in Artificial Intelligence</strong> at <strong>ZHCET, AMU</strong>.<br>
-    🔭 Working on <strong>Spotify Clone</strong> to explore Full-stack development.<br>
-    🌱 Learning <strong>Back-End Development</strong> with <strong>Node.js</strong> and <strong>MongoDB</strong>.<br>
-    💬 Ask me about <strong>Web Dev</strong>, <strong>Python</strong>, <strong>C++</strong>, or <strong>Machine Learning</strong>.<br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/ikeshavvarshney?tab=repositories">GitHub</a>.<br>
-    📄 My Experience? Checkout my <a href="assets/RESUME.pdf">Resume</a>.<br>
-    📫 Reach me at <strong>ikeshavvarshney@gmail.com</strong>
-  </em>
+  <img src="https://komarev.com/ghpvc/?username=ikeshavvarshney&style=for-the-badge">
 </p>
-
-<h2 align="left">💻 Technologies I Use</h2>
-
-<h3>🧠 Programming Languages:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
-
-<h3>🌐 Web Development:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-<h3>🧪 Machine Learning & Data Science:</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-</p>
-
-<h3>🛠️ Tools & Version Control:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
-<h2 align="center">🤝 Let’s Connect Professionally</h2>
+  
 <p align="center">
-  <a href="https://instagram.com/varshneykeshav30" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ikeshavvarshney" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/ikeshavvarshney" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" width="30" /></a>
+  <img src="assets/coding.gif" width="350px" alt="Coding"/>
 </p>
 
-<h3 align="center">📈 GitHub Activity Overview</h3>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ikeshavvarshney&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+
+### 🙋‍♂️ About Me
+
+- 🎓 B.Tech. in Artificial Intelligence @ ZHCET, AMU
+- 👨‍💻 Building a MERN Stack Projects — exploring new things!
+- 💬 Ask me about Web Dev, Python, C++, Machine Learning
+- 🌱 Currently deepening my backend & cloud skills
+- 📫 Find all my work right here on [GitHub](https://github.com/ikeshavvarshney?tab=repositories)
+- 📄 See my [Resume](assets/RESUME.pdf)
+
+---
+
+### ⚡ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Web & App:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**ML/Data Science:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚩 Featured Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| **Sizzlify** | Full-stack music streaming (in progress) | MERN, REST API |
+|**Coming Soon...**|
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikeshavvarshney&show_icons=true&theme=react" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeshavvarshney&layout=compact&theme=react" width="340"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ikeshavvarshney&theme=react" width="760"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikeshavvarshney&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+---
+
+### 🌎 Let's Connect
+
+- 🤝 Open for collaboration, internships, and tech talks
+- 📝 Want to know more? [Read my Resume](assets/RESUME.pdf)
+- 📨 Email: **ikeshavvarshney@gmail.com**
+
+<p align="center">
+  <sub>“Every developer was once a beginner.”</sub>
 </p>
