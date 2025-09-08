@@ -7,18 +7,20 @@
 <h3 align="center">Full-Stack Developer | AI Undergrad | MERN Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ikeshavvarshney"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/ikeshavvarshney"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/ikeshavvarshney"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:ikeshavvarshney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikeshavvarshney&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=ikeshavvarshney&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ikeshavvarshney?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ikeshavvarshney?label=Stars&style=flat-square&color=ff69b4" alt="Stars" />
 </p>
   
 <p align="center">
   <img src="assets/coding.gif" width="350px" alt="Coding"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ikeshavvarshney"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ikeshavvarshney"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/ikeshavvarshney"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:ikeshavvarshney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
